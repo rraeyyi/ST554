@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Thanks for stopping by! This is Yi's GitHub blog for the class ST 554: Big Data Analysis. It contains few projects that I've done in this class using Python. In this course, we discusse big data management, predictive analytics, and applications of big data.  Literate programming and other good programming practices are covered as well.
